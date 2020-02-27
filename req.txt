@@ -1,0 +1,43 @@
+                                                                  Web Project
+
+- Background with indian flag and national polling logo 
+
+PAGE 1
+
+- Then a registration form  / account for future voting
+    - Full Name 
+    - D.O.B 
+    - State 
+    - Aadhar card no.
+    - PAN card no. 
+    - Phone no.
+    - E-mail address 
+    - Passport size photo upload option 
+    - Aadhar card upload option 
+
+  ** STORE THE DATA IN THE DATABASE AND SEND THE PERSON TO NEXT PAGE IF ELIGIBLE , ELSE SHOW NOT ELIGIBLE AND PER AADHAR CARD NO. - 1 VOTE // WILL DO THE JOB OF INK ON THE FINGER 
+
+  AND IF YOU HAVE ALREADY VOTED THEN SHOW SOME POP UP ABOUT IT 
+
+PAGE 2 
+
+    - Your name at the right most corner. 
+    - Voting page will pop up and according to your state you can participate in the elections .
+    - The list of parties and their voting symbols will be shown , and a note about the voting process , so that people cast their vote right.
+    - Then click on "Vote" option .
+
+PAGE 3
+
+    - A list of Party symbols will be there and a checkbox in front of them . And NOTA option will also be there .
+    - At a time we can tick only one checkbox .
+    - and on clicking on every symbol , the information related to it and the party will be displayed in case of doubt.
+    - At the end , a submit option will be there. 
+    - After clicking on it , a cookiw will appear asking whether to really submit or not and that your action will be non rewritable . 
+        - Yes : Voting process is done and wait for the results .
+        - No  : Make changes .
+    - click on result option .    
+
+    
+PAGE 4 
+
+    a small pie chart showing stats and all   .        
